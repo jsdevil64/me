@@ -1,7 +1,7 @@
 {
   "id": "/me/",
-  "name": "JS Devil",
-  "short_name": "JSDevil",
+  "name": "JS profile",
+  "short_name": "JS hub",
   "description": "JS Devil official web application",
   "start_url": "/me/",
   "scope": "/me/",
@@ -11,12 +11,12 @@
   "theme_color": "#111111",
   "icons": [
     {
-      "src": "/me/icon-192.png",
+      "src": "/me/icon-1.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/me/icon-512.png",
+      "src": "/me/icon-2.png",
       "sizes": "512x512",
       "type": "image/png"
     }
